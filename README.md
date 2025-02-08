@@ -1,21 +1,9 @@
 <<<<<<< HEAD
 # push_notification
+#UX
 
-A new Flutter project.
+<img src="https://github.com/user-attachments/assets/d83b30be-130c-49d5-8185-5e56e49397a9" width="300"/>
 
-## Getting Started
+<img src="https://github.com/user-attachments/assets/a1cdfc1c-f7b1-468b-806d-e43c5f811580" width="300"/>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# flutter_x_firebase_push_notification
-Push Notifications in a Flutter app using Firebase Cloud Messaging (FCM)
->>>>>>> 33038275de5eb7a75d1cacf9dc19fcc0c49c937b
+<img src="https://github.com/user-attachments/assets/56867a45-ce11-4f92-9596-cc7371a2f977" width="300"/>
